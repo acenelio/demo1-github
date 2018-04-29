@@ -5,7 +5,7 @@ namespace DemoGit {
         static void Main(string[] args) {
 
             Console.WriteLine("Good morning!");
-            Console.WriteLine("Good afternoon!");
+            Console.WriteLine("Good night!");
         }
     }
 }
